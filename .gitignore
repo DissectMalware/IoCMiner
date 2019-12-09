@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+config/*
+results/*
+!results/current_users.txt
+.idea 
+
